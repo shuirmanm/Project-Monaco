@@ -1056,3 +1056,25 @@ season,round,circuit_id,lat,long,country,date,url
 2021,20,losail,25.49,51.4542,Qatar,2021-11-21,http://en.wikipedia.org/wiki/2021_Qatar_Grand_Prix
 2021,21,jeddah,21.6319,39.1044,Saudi Arabia,2021-12-05,http://en.wikipedia.org/wiki/2021_Saudi_Arabian_Grand_Prix
 2021,22,yas_marina,24.4672,54.6031,UAE,2021-12-12,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix
+2022,1,bahrain,26.0325,50.5106,Bahrain,2022-03-20,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,2,jeddah,21.6319,39.1044,Saudi Arabia,2022-03-27,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,3,albert_park,-37.8497,144.968,Australia,2022-04-10,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,4,imola,44.3439,11.7167,Italy,2022-04-24,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,5,miami,25.9581,-80.2389,USA,2022-05-08,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,6,catalunya,41.57,2.26111,Spain,2022-05-22,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,7,monaco,43.7347,7.42056,Monaco,2022-05-29,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,8,baku,40.3725,49.8533,Azerbaijan,2022-06-12,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,9,villeneuve,45.5,-73.5228,Canada,2022-06-19,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,10,silverstone,52.0786,-1.01694,UK,2022-07-03,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,11,red_bull_ring,47.2197,14.7647,Austria,2022-07-10,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,12,ricard,43.2506,5.79167,France,2022-07-24,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,13,hungaroring,47.5789,19.2486,Hungary,2022-07-31,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,14,spa,50.4372,5.97139,Belgium,2022-08-28,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,15,zandvoort,52.3888,4.54092,Netherlands,2022-09-04,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,16,monza,45.6156,9.28111,Italy,2022-09-11,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,17,marina_bay,1.2914,103.864,Singapore,2022-10-02,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,18,suzuka,34.8431,136.541,Japan,2022-10-09,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,19,americas,30.1328,-97.6411,USA,2022-10-23,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,20,rodriguez,19.4042,-99.0907,Mexico,2022-10-30,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,21,interlagos,-23.7036,-46.6997,Brazil,2022-11-13,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,22,yas_marina,24.4672,54.6031,UAE,2022-11-20,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix

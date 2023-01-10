@@ -47,8 +47,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1950,3,indianapolis,holland,1907-12-18,American,deidt,10,,+1 Lap,6.0,2,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,rose,1906-05-26,American,deidt,3,,+1 Lap,4.0,3,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,green,1919-09-30,American,kurtis_kraft,12,,+1 Lap,3.0,4,http://en.wikipedia.org/wiki/1950_Indianapolis_500
-1950,3,indianapolis,bettenhausen,1916-09-12,American,kurtis_kraft,9,,+2 Laps,1.0,5,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,chitwood,1912-04-14,American,kurtis_kraft,9,,+2 Laps,1.0,5,http://en.wikipedia.org/wiki/1950_Indianapolis_500
+1950,3,indianapolis,bettenhausen,1916-09-12,American,kurtis_kraft,9,,+2 Laps,1.0,5,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,wallard,1910-09-07,American,moore,23,,+2 Laps,0.0,6,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,faulkner,1920-02-16,American,kurtis_kraft,1,,+3 Laps,0.0,7,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,george_connor,1906-08-16,American,lesovsky,4,,+3 Laps,0.0,8,http://en.wikipedia.org/wiki/1950_Indianapolis_500
@@ -70,8 +70,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1950,3,indianapolis,rathmann,1928-07-16,American,wetteroth,28,,+16 Laps,0.0,24,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,banks,1913-06-14,American,maserati,21,,Oil line,0.0,25,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,schindler,1909-03-06,American,snowberger,22,,Transmission,0.0,26,http://en.wikipedia.org/wiki/1950_Indianapolis_500
-1950,3,indianapolis,cantrell,1908-01-31,American,adams,17,,Oil pressure,0.0,27,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,levrett,1914-02-14,American,adams,17,,Oil pressure,0.0,27,http://en.wikipedia.org/wiki/1950_Indianapolis_500
+1950,3,indianapolis,cantrell,1908-01-31,American,adams,17,,Oil pressure,0.0,27,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,3,indianapolis,agabashian,1913-08-21,American,kurtis_kraft,2,,Oil leak,0.0,28,http://en.wikipedia.org/wiki/1950_Indianapolis_500
 1950,4,bremgarten,farina,1906-10-30,Italian,alfa,2,7373700.0,Finished,9.0,1,http://en.wikipedia.org/wiki/1950_Swiss_Grand_Prix
 1950,4,bremgarten,fagioli,1898-06-09,Italian,alfa,3,7374100.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1950_Swiss_Grand_Prix
@@ -111,8 +111,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1950,6,reims,manzon,1917-04-12,French,simca,12,,+3 Laps,3.0,4,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
 1950,6,reims,chaboud,1907-04-12,French,lago,4,,+5 Laps,1.0,5,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
 1950,6,reims,etancelin,1896-12-28,French,lago,4,,+5 Laps,1.0,5,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
-1950,6,reims,rosier,1905-11-05,French,lago,15,,+8 Laps,0.0,6,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
 1950,6,reims,pozzi,1909-08-27,French,lago,15,,+8 Laps,0.0,6,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
+1950,6,reims,rosier,1905-11-05,French,lago,15,,+8 Laps,0.0,6,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
 1950,6,reims,farina,1906-10-30,Italian,alfa,2,,Fuel pump,0.0,7,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
 1950,6,reims,cabantous,1904-10-08,French,lago,5,,+12 Laps,0.0,8,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
 1950,6,reims,levegh,1905-12-22,French,lago,9,,Engine,0.0,9,http://en.wikipedia.org/wiki/1950_French_Grand_Prix
@@ -138,8 +138,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1950,7,monza,sommer,1906-08-31,French,lago,8,,Gearbox,0.0,10,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
 1950,7,monza,guy_mairesse,1910-08-10,French,lago,11,,Oil pipe,0.0,11,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
 1950,7,monza,rol,1908-06-05,Italian,maserati,9,,Retired,0.0,12,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
-1950,7,monza,taruffi,1906-10-12,Italian,alfa,7,,Engine,0.0,13,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
 1950,7,monza,fangio,1911-06-24,Argentine,alfa,7,,Engine,0.0,13,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
+1950,7,monza,taruffi,1906-10-12,Italian,alfa,7,,Engine,0.0,13,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
 1950,7,monza,levegh,1905-12-22,French,lago,20,,Gearbox,0.0,14,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
 1950,7,monza,fangio,1911-06-24,Argentine,alfa,1,,Gearbox,1.0,15,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
 1950,7,monza,claes,1916-08-11,Belgian,lago,22,,Overheating,0.0,16,http://en.wikipedia.org/wiki/1950_Italian_Grand_Prix
@@ -177,8 +177,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1951,1,bremgarten,hirt,1910-03-30,Swiss,veritas,16,,Fuel system,0.0,21,http://en.wikipedia.org/wiki/1951_Swiss_Grand_Prix
 1951,2,indianapolis,wallard,1910-09-07,American,kurtis_kraft,2,14258050.0,Finished,9.0,1,http://en.wikipedia.org/wiki/1951_Indianapolis_500
 1951,2,indianapolis,nazaruk,1921-10-02,American,kurtis_kraft,7,14365290.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1951_Indianapolis_500
-1951,2,indianapolis,mcgrath,1919-10-08,American,kurtis_kraft,3,14429440.0,Finished,2.0,3,http://en.wikipedia.org/wiki/1951_Indianapolis_500
 1951,2,indianapolis,ayulo,1921-10-20,American,kurtis_kraft,3,14429440.0,Finished,2.0,3,http://en.wikipedia.org/wiki/1951_Indianapolis_500
+1951,2,indianapolis,mcgrath,1919-10-08,American,kurtis_kraft,3,14429440.0,Finished,2.0,3,http://en.wikipedia.org/wiki/1951_Indianapolis_500
 1951,2,indianapolis,linden,1922-04-05,American,sherman,31,14538170.0,Finished,3.0,4,http://en.wikipedia.org/wiki/1951_Indianapolis_500
 1951,2,indianapolis,ball,1925-08-26,American,schroeder,29,14550280.0,Finished,2.0,5,http://en.wikipedia.org/wiki/1951_Indianapolis_500
 1951,2,indianapolis,banks,1913-06-14,American,moore,17,14598070.0,Finished,0.0,6,http://en.wikipedia.org/wiki/1951_Indianapolis_500
@@ -220,8 +220,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1951,3,spa,etancelin,1896-12-28,French,lago,10,,Transmission,0.0,13,http://en.wikipedia.org/wiki/1951_Belgian_Grand_Prix
 1951,4,reims,fagioli,1898-06-09,Italian,alfa,7,12131000.0,Finished,4.0,1,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,fangio,1911-06-24,Argentine,alfa,7,12131000.0,Finished,5.0,1,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
-1951,4,reims,ascari,1918-07-13,Italian,ferrari,6,12189200.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,gonzalez,1922-10-05,Argentine,ferrari,6,12189200.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
+1951,4,reims,ascari,1918-07-13,Italian,ferrari,6,12189200.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,villoresi,1909-05-16,Italian,ferrari,4,,+3 Laps,4.0,3,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,reg_parnell,1911-07-02,British,ferrari,9,,+4 Laps,3.0,4,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
 1951,4,reims,farina,1906-10-30,Italian,alfa,2,,+4 Laps,2.0,5,http://en.wikipedia.org/wiki/1951_French_Grand_Prix
@@ -288,8 +288,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1951,6,nurburgring,graffenried,1914-05-18,Swiss,maserati,16,,Engine,0.0,22,http://en.wikipedia.org/wiki/1951_German_Grand_Prix
 1951,7,monza,ascari,1918-07-13,Italian,ferrari,3,9759300.0,Finished,8.0,1,http://en.wikipedia.org/wiki/1951_Italian_Grand_Prix
 1951,7,monza,gonzalez,1922-10-05,Argentine,ferrari,4,9783900.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1951_Italian_Grand_Prix
-1951,7,monza,bonetto,1903-06-09,Italian,alfa,7,,+1 Lap,2.0,3,http://en.wikipedia.org/wiki/1951_Italian_Grand_Prix
 1951,7,monza,farina,1906-10-30,Italian,alfa,7,,+1 Lap,3.0,3,http://en.wikipedia.org/wiki/1951_Italian_Grand_Prix
+1951,7,monza,bonetto,1903-06-09,Italian,alfa,7,,+1 Lap,2.0,3,http://en.wikipedia.org/wiki/1951_Italian_Grand_Prix
 1951,7,monza,villoresi,1909-05-16,Italian,ferrari,5,,+1 Lap,3.0,4,http://en.wikipedia.org/wiki/1951_Italian_Grand_Prix
 1951,7,monza,taruffi,1906-10-12,Italian,ferrari,6,,+2 Laps,2.0,5,http://en.wikipedia.org/wiki/1951_Italian_Grand_Prix
 1951,7,monza,simon,1920-01-05,French,simca,11,,+6 Laps,0.0,6,http://en.wikipedia.org/wiki/1951_Italian_Grand_Prix
@@ -553,18 +553,18 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1953,1,galvez,cruz,1923-06-28,Argentine,cooper,13,,Wheel,0.0,16,http://en.wikipedia.org/wiki/1953_Argentine_Grand_Prix
 1953,2,indianapolis,vukovich,1918-12-13,American,kurtis_kraft,1,13981690.0,Finished,9.0,1,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,cross,1918-01-24,American,kurtis_kraft,12,14192560.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1953_Indianapolis_500
-1953,2,indianapolis,hanks,1914-07-13,American,kurtis_kraft,9,14233190.0,Finished,2.0,3,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,darter,1913-05-05,American,kurtis_kraft,9,14233190.0,Finished,2.0,3,http://en.wikipedia.org/wiki/1953_Indianapolis_500
-1953,2,indianapolis,agabashian,1913-08-21,American,kurtis_kraft,2,14260930.0,Finished,,4,http://en.wikipedia.org/wiki/1953_Indianapolis_500
+1953,2,indianapolis,hanks,1914-07-13,American,kurtis_kraft,9,14233190.0,Finished,2.0,3,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,paul_russo,1914-04-10,American,kurtis_kraft,2,14260930.0,Finished,,4,http://en.wikipedia.org/wiki/1953_Indianapolis_500
+1953,2,indianapolis,agabashian,1913-08-21,American,kurtis_kraft,2,14260930.0,Finished,,4,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,mcgrath,1919-10-08,American,kurtis_kraft,3,14451330.0,Finished,2.0,5,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,daywalt,1924-08-28,American,kurtis_kraft,21,14471900.0,Finished,0.0,6,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,rathmann,1928-07-16,American,kurtis_kraft,25,14507710.0,Finished,0.0,7,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,johnson,1919-02-10,American,kurtis_kraft,25,14507710.0,Finished,0.0,7,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,mccoy,1921-02-19,American,stevens,20,14586240.0,Finished,0.0,8,http://en.wikipedia.org/wiki/1953_Indianapolis_500
-1953,2,indianapolis,stevenson,1919-10-15,American,kuzma,6,,Accident,0.0,9,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,hartley,1926-01-28,American,kuzma,6,,Accident,0.0,9,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,bettenhausen,1916-09-12,American,kuzma,6,,Accident,0.0,9,http://en.wikipedia.org/wiki/1953_Indianapolis_500
+1953,2,indianapolis,stevenson,1919-10-15,American,kuzma,6,,Accident,0.0,9,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,davies,1929-08-08,American,kurtis_kraft,32,,+7 Laps,0.0,10,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,nalon,1913-03-02,American,kurtis_kraft,26,,Accident,0.0,11,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,scarborough,1914-07-03,American,kurtis_kraft,19,,+10 Laps,0.0,12,http://en.wikipedia.org/wiki/1953_Indianapolis_500
@@ -579,8 +579,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1953,2,indianapolis,faulkner,1920-02-16,American,kurtis_kraft,14,,+24 Laps,0.0,17,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,mantz,1918-09-18,American,kurtis_kraft,14,,+24 Laps,0.0,17,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,teague,1921-02-22,American,kurtis_kraft,22,,Oil leak,0.0,18,http://en.wikipedia.org/wiki/1953_Indianapolis_500
-1953,2,indianapolis,thomson,1922-04-09,American,kurtis_kraft,18,,Oil leak,0.0,19,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,2,indianapolis,webb,1910-10-08,American,kurtis_kraft,18,,Oil leak,0.0,19,http://en.wikipedia.org/wiki/1953_Indianapolis_500
+1953,2,indianapolis,holmes,1920-09-04,American,kurtis_kraft,18,,Oil leak,0.0,19,http://en.wikipedia.org/wiki/1953_Indianapolis_500
 1953,3,zandvoort,ascari,1918-07-13,Italian,ferrari,1,10415800.0,Finished,8.0,1,http://en.wikipedia.org/wiki/1953_Dutch_Grand_Prix
 1953,3,zandvoort,farina,1906-10-30,Italian,ferrari,3,10426200.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1953_Dutch_Grand_Prix
 1953,3,zandvoort,gonzalez,1922-10-05,Argentine,maserati,13,,+1 Lap,2.0,3,http://en.wikipedia.org/wiki/1953_Dutch_Grand_Prix
@@ -681,8 +681,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1953,7,nurburgring,graffenried,1914-05-18,Swiss,maserati,11,,+1 Lap,2.0,5,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
 1953,7,nurburgring,moss,1929-09-17,British,cooper,12,,+1 Lap,0.0,6,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
 1953,7,nurburgring,swaters,1926-10-30,American,ferrari,19,,+1 Lap,0.0,7,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
-1953,7,nurburgring,ascari,1918-07-13,Italian,ferrari,1,,+1 Lap,0.0,8,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
 1953,7,nurburgring,villoresi,1909-05-16,Italian,ferrari,1,,+1 Lap,0.0,8,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
+1953,7,nurburgring,ascari,1918-07-13,Italian,ferrari,1,,+1 Lap,0.0,8,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
 1953,7,nurburgring,herrmann,1928-02-23,German,veritas,14,,+1 Lap,0.0,9,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
 1953,7,nurburgring,rosier,1905-11-05,French,ferrari,22,,+1 Lap,0.0,10,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
 1953,7,nurburgring,nuckey,1929-06-26,British,cooper,20,,+2 Laps,0.0,11,http://en.wikipedia.org/wiki/1953_German_Grand_Prix
@@ -707,8 +707,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1953,8,bremgarten,ascari,1918-07-13,Italian,ferrari,2,10894400.0,Finished,9.0,1,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
 1953,8,bremgarten,farina,1906-10-30,Italian,ferrari,3,10967330.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
 1953,8,bremgarten,hawthorn,1929-04-10,British,ferrari,7,10990360.0,Finished,4.0,3,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
-1953,8,bremgarten,fangio,1911-06-24,Argentine,maserati,1,,+1 Lap,,4,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
 1953,8,bremgarten,bonetto,1903-06-09,Italian,maserati,1,,+1 Lap,,4,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
+1953,8,bremgarten,fangio,1911-06-24,Argentine,maserati,1,,+1 Lap,,4,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
 1953,8,bremgarten,lang,1909-04-06,German,maserati,11,,+3 Laps,2.0,5,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
 1953,8,bremgarten,villoresi,1909-05-16,Italian,ferrari,6,,+3 Laps,0.0,6,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
 1953,8,bremgarten,wharton,1916-03-21,British,cooper,9,,+3 Laps,0.0,7,http://en.wikipedia.org/wiki/1953_Swiss_Grand_Prix
@@ -787,18 +787,18 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1954,2,indianapolis,crockett,1926-10-23,American,kurtis_kraft,25,14184510.0,Finished,0.0,9,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,niday,1914-04-29,American,stevens,13,14184960.0,Finished,0.0,10,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,parsons,1918-07-04,American,kurtis_kraft,27,14259460.0,Finished,0.0,11,http://en.wikipedia.org/wiki/1954_Indianapolis_500
-1954,2,indianapolis,cross,1918-01-24,American,kurtis_kraft,27,14259460.0,Finished,0.0,11,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,hanks,1914-07-13,American,kurtis_kraft,27,14259460.0,Finished,0.0,11,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,linden,1922-04-05,American,kurtis_kraft,27,14259460.0,Finished,0.0,11,http://en.wikipedia.org/wiki/1954_Indianapolis_500
+1954,2,indianapolis,cross,1918-01-24,American,kurtis_kraft,27,14259460.0,Finished,0.0,11,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,davies,1929-08-08,American,kurtis_kraft,27,14259460.0,Finished,0.0,11,http://en.wikipedia.org/wiki/1954_Indianapolis_500
-1954,2,indianapolis,faulkner,1920-02-16,American,kuzma,5,,+1 Lap,0.0,12,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,stevenson,1919-10-15,American,kuzma,5,,+1 Lap,0.0,12,http://en.wikipedia.org/wiki/1954_Indianapolis_500
+1954,2,indianapolis,faulkner,1920-02-16,American,kuzma,5,,+1 Lap,0.0,12,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,ayulo,1921-10-20,American,kuzma,22,,+3 Laps,0.0,13,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,sweikert,1926-05-20,American,kurtis_kraft,9,,+3 Laps,0.0,14,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,bettenhausen,1916-09-12,American,kurtis_kraft,8,,+4 Laps,0.0,15,http://en.wikipedia.org/wiki/1954_Indianapolis_500
-1954,2,indianapolis,darter,1913-05-05,American,kurtis_kraft,8,,+4 Laps,0.0,15,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,teague,1921-02-22,American,kurtis_kraft,8,,+4 Laps,0.0,15,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,jackson,1910-07-25,American,kurtis_kraft,8,,+4 Laps,0.0,15,http://en.wikipedia.org/wiki/1954_Indianapolis_500
+1954,2,indianapolis,darter,1913-05-05,American,kurtis_kraft,8,,+4 Laps,0.0,15,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,mccoy,1921-02-19,American,kurtis_kraft,20,,+6 Laps,0.0,16,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,reece,1929-11-17,American,pankratz,7,,+6 Laps,0.0,17,http://en.wikipedia.org/wiki/1954_Indianapolis_500
 1954,2,indianapolis,elisian,1926-12-09,American,stevens,31,,+7 Laps,0.0,18,http://en.wikipedia.org/wiki/1954_Indianapolis_500
@@ -862,8 +862,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1954,5,silverstone,salvadori,1922-05-12,British,maserati,7,,Transmission,0.0,19,http://en.wikipedia.org/wiki/1954_British_Grand_Prix
 1954,5,silverstone,flockhart,1923-06-16,British,maserati,10,,Accident,0.0,20,http://en.wikipedia.org/wiki/1954_British_Grand_Prix
 1954,5,silverstone,bira,1914-07-15,Thai,maserati,10,,Accident,0.0,20,http://en.wikipedia.org/wiki/1954_British_Grand_Prix
-1954,5,silverstone,ascari,1918-07-13,Italian,maserati,27,,Engine,0.0,21,http://en.wikipedia.org/wiki/1954_British_Grand_Prix
 1954,5,silverstone,villoresi,1909-05-16,Italian,maserati,27,,Engine,0.0,21,http://en.wikipedia.org/wiki/1954_British_Grand_Prix
+1954,5,silverstone,ascari,1918-07-13,Italian,maserati,27,,Engine,0.0,21,http://en.wikipedia.org/wiki/1954_British_Grand_Prix
 1954,5,silverstone,riseley_prichard,1924-01-17,British,connaught,21,,Accident,0.0,22,http://en.wikipedia.org/wiki/1954_British_Grand_Prix
 1954,5,silverstone,reg_parnell,1911-07-02,British,ferrari,14,,Engine,0.0,23,http://en.wikipedia.org/wiki/1954_British_Grand_Prix
 1954,5,silverstone,ascari,1918-07-13,Italian,maserati,30,,Engine,0.0,24,http://en.wikipedia.org/wiki/1954_British_Grand_Prix
@@ -958,9 +958,9 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1954,9,pedralbes,manzon,1917-04-12,French,ferrari,17,,Engine,0.0,21,http://en.wikipedia.org/wiki/1954_Spanish_Grand_Prix
 1954,9,pedralbes,collins,1931-11-06,British,vanwall,0,,Accident,0.0,22,http://en.wikipedia.org/wiki/1954_Spanish_Grand_Prix
 1955,1,galvez,fangio,1911-06-24,Argentine,mercedes,3,10838600.0,Finished,9.0,1,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
-1955,1,galvez,gonzalez,1922-10-05,Argentine,ferrari,1,10928200.0,Finished,2.0,2,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,farina,1906-10-30,Italian,ferrari,1,10928200.0,Finished,2.0,2,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,trintignant,1917-10-30,French,ferrari,1,10928200.0,Finished,2.0,2,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
+1955,1,galvez,gonzalez,1922-10-05,Argentine,ferrari,1,10928200.0,Finished,2.0,2,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,farina,1906-10-30,Italian,ferrari,5,,+2 Laps,,3,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,maglioli,1928-06-05,Italian,ferrari,5,,+2 Laps,,3,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,trintignant,1917-10-30,French,ferrari,5,,+2 Laps,,3,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
@@ -968,29 +968,29 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1955,1,galvez,kling,1910-09-16,German,mercedes,10,,+2 Laps,1.0,4,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,moss,1929-09-17,British,mercedes,10,,+2 Laps,1.0,4,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,mieres,1924-12-03,Argentine,maserati,16,,+5 Laps,2.0,5,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
-1955,1,galvez,schell,1921-06-29,American,maserati,7,,+8 Laps,0.0,6,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,behra,1921-02-16,French,maserati,7,,+8 Laps,0.0,6,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
+1955,1,galvez,schell,1921-06-29,American,maserati,7,,+8 Laps,0.0,6,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,musso,1924-07-28,Italian,maserati,18,,+13 Laps,0.0,7,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,mantovani,1929-05-22,Italian,maserati,18,,+13 Laps,0.0,7,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,schell,1921-06-29,American,maserati,18,,+13 Laps,0.0,7,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,musso,1924-07-28,Italian,maserati,19,,Engine,0.0,8,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,mantovani,1929-05-22,Italian,maserati,19,,Engine,0.0,8,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,behra,1921-02-16,French,maserati,19,,Engine,0.0,8,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
-1955,1,galvez,bucci,1920-09-04,Argentine,maserati,20,,Fuel pressure,0.0,9,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,schell,1921-06-29,American,maserati,20,,Fuel pressure,0.0,9,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,menditeguy,1914-08-10,Argentine,maserati,20,,Fuel pressure,0.0,9,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
+1955,1,galvez,bucci,1920-09-04,Argentine,maserati,20,,Fuel pressure,0.0,9,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,iglesias,1922-02-22,Argentine,gordini,17,,Transmission,0.0,10,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,trintignant,1917-10-30,French,ferrari,14,,Engine,0.0,11,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
-1955,1,galvez,villoresi,1909-05-16,Italian,lancia,12,,Accident,0.0,12,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,castellotti,1930-10-10,Italian,lancia,12,,Accident,0.0,12,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
+1955,1,galvez,villoresi,1909-05-16,Italian,lancia,12,,Accident,0.0,12,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,moss,1929-09-17,British,mercedes,8,,Fuel system,0.0,13,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,uria,1924-07-11,Uruguayan,maserati,21,,Out of fuel,0.0,14,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,ascari,1918-07-13,Italian,lancia,2,,Accident,0.0,15,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,1,galvez,bayol,1914-02-28,French,gordini,15,,Transmission,0.0,16,http://en.wikipedia.org/wiki/1955_Argentine_Grand_Prix
 1955,2,monaco,trintignant,1917-10-30,French,ferrari,9,10689800.0,Finished,8.0,1,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
 1955,2,monaco,castellotti,1930-10-10,Italian,lancia,4,10710000.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
-1955,2,monaco,perdisa,1932-10-21,Italian,maserati,5,,+1 Lap,2.0,3,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
 1955,2,monaco,behra,1921-02-16,French,maserati,5,,+1 Lap,2.0,3,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
+1955,2,monaco,perdisa,1932-10-21,Italian,maserati,5,,+1 Lap,2.0,3,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
 1955,2,monaco,farina,1906-10-30,Italian,ferrari,14,,+1 Lap,3.0,4,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
 1955,2,monaco,villoresi,1909-05-16,Italian,lancia,7,,+1 Lap,2.0,5,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
 1955,2,monaco,chiron,1899-08-03,Monegasque,lancia,19,,+5 Laps,0.0,6,http://en.wikipedia.org/wiki/1955_Monaco_Grand_Prix
@@ -1047,8 +1047,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1955,4,spa,moss,1929-09-17,British,mercedes,3,9577100.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
 1955,4,spa,farina,1906-10-30,Italian,ferrari,4,9669500.0,Finished,4.0,3,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
 1955,4,spa,frere,1917-01-30,Belgian,ferrari,8,9774500.0,Finished,3.0,4,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
-1955,4,spa,mieres,1924-12-03,Argentine,maserati,13,,+1 Lap,1.0,5,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
 1955,4,spa,behra,1921-02-16,French,maserati,13,,+1 Lap,1.0,5,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
+1955,4,spa,mieres,1924-12-03,Argentine,maserati,13,,+1 Lap,1.0,5,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
 1955,4,spa,trintignant,1917-10-30,French,ferrari,10,,+1 Lap,0.0,6,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
 1955,4,spa,musso,1924-07-28,Italian,maserati,7,,+2 Laps,0.0,7,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
 1955,4,spa,perdisa,1932-10-21,Italian,maserati,11,,+3 Laps,0.0,8,http://en.wikipedia.org/wiki/1955_Belgian_Grand_Prix
@@ -1134,8 +1134,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1956,1,galvez,gerini,1928-08-10,Italian,maserati,11,,+6 Laps,,4,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
 1956,1,galvez,landi,1907-07-14,Brazilian,maserati,11,,+6 Laps,,4,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
 1956,1,galvez,gendebien,1924-01-12,Belgian,ferrari,10,,+7 Laps,2.0,5,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
-1956,1,galvez,uria,1924-07-11,Uruguayan,maserati,13,,+10 Laps,0.0,6,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
 1956,1,galvez,oscar_gonzalez,1923-11-10,Uruguayan,maserati,13,,+10 Laps,0.0,6,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
+1956,1,galvez,uria,1924-07-11,Uruguayan,maserati,13,,+10 Laps,0.0,6,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
 1956,1,galvez,moss,1929-09-17,British,maserati,7,,Engine,0.0,7,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
 1956,1,galvez,collins,1931-11-06,British,ferrari,9,,Accident,0.0,8,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
 1956,1,galvez,piotti,1913-10-27,Italian,maserati,12,,Accident,0.0,9,http://en.wikipedia.org/wiki/1956_Argentine_Grand_Prix
@@ -1147,11 +1147,11 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1956,2,monaco,fangio,1911-06-24,Argentine,ferrari,9,10839000.0,Finished,4.0,2,http://en.wikipedia.org/wiki/1956_Monaco_Grand_Prix
 1956,2,monaco,collins,1931-11-06,British,ferrari,9,10839000.0,Finished,3.0,2,http://en.wikipedia.org/wiki/1956_Monaco_Grand_Prix
 1956,2,monaco,behra,1921-02-16,French,maserati,4,,+1 Lap,4.0,3,http://en.wikipedia.org/wiki/1956_Monaco_Grand_Prix
-1956,2,monaco,fangio,1911-06-24,Argentine,ferrari,1,,+1 Lap,,4,http://en.wikipedia.org/wiki/1956_Monaco_Grand_Prix
 1956,2,monaco,castellotti,1930-10-10,Italian,ferrari,1,,+1 Lap,,4,http://en.wikipedia.org/wiki/1956_Monaco_Grand_Prix
+1956,2,monaco,fangio,1911-06-24,Argentine,ferrari,1,,+1 Lap,,4,http://en.wikipedia.org/wiki/1956_Monaco_Grand_Prix
 1956,2,monaco,ramos,1925-12-07,Brazilian,gordini,14,,+7 Laps,2.0,5,http://en.wikipedia.org/wiki/1956_Monaco_Grand_Prix
-1956,2,monaco,andre_pilette,1918-10-06,Belgian,gordini,11,,+12 Laps,0.0,6,http://en.wikipedia.org/wiki/1956_Monaco_Grand_Prix
 1956,2,monaco,bayol,1914-02-28,French,gordini,11,,+12 Laps,0.0,6,http://en.wikipedia.org/wiki/1956_Monaco_Grand_Prix
+1956,2,monaco,andre_pilette,1918-10-06,Belgian,gordini,11,,+12 Laps,0.0,6,http://en.wikipedia.org/wiki/1956_Monaco_Grand_Prix
 1956,2,monaco,perdisa,1932-10-21,Italian,maserati,7,,+14 Laps,0.0,7,http://en.wikipedia.org/wiki/1956_Monaco_Grand_Prix
 1956,2,monaco,gould,1918-09-20,British,maserati,16,,+15 Laps,0.0,8,http://en.wikipedia.org/wiki/1956_Monaco_Grand_Prix
 1956,2,monaco,manzon,1917-04-12,French,gordini,12,,Accident,0.0,9,http://en.wikipedia.org/wiki/1956_Monaco_Grand_Prix
@@ -1233,8 +1233,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1956,5,reims,schell,1921-06-29,American,vanwall,4,,Engine,0.0,19,http://en.wikipedia.org/wiki/1956_French_Grand_Prix
 1956,5,reims,chapman,1928-05-19,British,vanwall,5,,Accident,0.0,20,http://en.wikipedia.org/wiki/1956_French_Grand_Prix
 1956,6,silverstone,fangio,1911-06-24,Argentine,ferrari,2,10787000.0,Finished,8.0,1,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
-1956,6,silverstone,collins,1931-11-06,British,ferrari,12,,+1 Lap,3.0,2,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
 1956,6,silverstone,portago,1928-10-11,Spanish,ferrari,12,,+1 Lap,3.0,2,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
+1956,6,silverstone,collins,1931-11-06,British,ferrari,12,,+1 Lap,3.0,2,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
 1956,6,silverstone,behra,1921-02-16,French,maserati,13,,+2 Laps,4.0,3,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
 1956,6,silverstone,fairman,1913-03-15,British,connaught,21,,+3 Laps,3.0,4,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
 1956,6,silverstone,gould,1918-09-20,British,maserati,14,,+4 Laps,2.0,5,http://en.wikipedia.org/wiki/1956_British_Grand_Prix
@@ -1298,16 +1298,16 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1956,8,monza,gerini,1928-08-10,Italian,maserati,17,,+8 Laps,0.0,10,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,salvadori,1922-05-12,British,maserati,14,,+9 Laps,0.0,11,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,musso,1924-07-28,Italian,ferrari,3,,Steering,0.0,12,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
-1956,8,monza,maglioli,1928-06-05,Italian,maserati,13,,Steering,0.0,13,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,behra,1921-02-16,French,maserati,13,,Steering,0.0,13,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
+1956,8,monza,maglioli,1928-06-05,Italian,maserati,13,,Steering,0.0,13,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,schell,1921-06-29,American,vanwall,10,,Transmission,0.0,14,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,behra,1921-02-16,French,maserati,5,,Magneto,0.0,15,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,halford,1931-05-18,British,maserati,22,,Engine,0.0,16,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,trintignant,1917-10-30,French,vanwall,11,,Transmission,0.0,17,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,taruffi,1906-10-12,Italian,vanwall,4,,Oil leak,0.0,18,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,castellotti,1930-10-10,Italian,ferrari,2,,Tyre,0.0,19,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
-1956,8,monza,villoresi,1909-05-16,Italian,maserati,8,,Engine,0.0,20,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,bonnier,1930-01-31,Swedish,maserati,8,,Engine,0.0,20,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
+1956,8,monza,villoresi,1909-05-16,Italian,maserati,8,,Engine,0.0,20,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,manzon,1917-04-12,French,gordini,23,,Chassis,0.0,21,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,portago,1928-10-11,Spanish,ferrari,9,,Tyre,0.0,22,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
 1956,8,monza,leston,1920-12-16,British,connaught,20,,Suspension,0.0,23,http://en.wikipedia.org/wiki/1956_Italian_Grand_Prix
@@ -1389,8 +1389,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1957,4,essarts,hawthorn,1929-04-10,British,ferrari,7,,+1 Lap,3.0,4,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
 1957,4,essarts,schell,1921-06-29,American,maserati,4,,+7 Laps,2.0,5,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
 1957,4,essarts,behra,1921-02-16,French,maserati,2,,+8 Laps,0.0,6,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
-1957,4,essarts,macdowel,1932-09-13,British,cooper,15,,+9 Laps,0.0,7,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
 1957,4,essarts,jack_brabham,1926-04-02,Australian,cooper,15,,+9 Laps,0.0,7,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
+1957,4,essarts,macdowel,1932-09-13,British,cooper,15,,+9 Laps,0.0,7,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
 1957,4,essarts,menditeguy,1914-08-10,Argentine,maserati,9,,Engine,0.0,8,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
 1957,4,essarts,lewis-evans,1930-04-20,British,vanwall,10,,Steering,0.0,9,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
 1957,4,essarts,salvadori,1922-05-12,British,vanwall,6,,Engine,0.0,10,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
@@ -1399,8 +1399,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1957,4,essarts,jack_brabham,1926-04-02,Australian,cooper,13,,Accident,0.0,13,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
 1957,4,essarts,gould,1918-09-20,British,maserati,14,,Halfshaft,0.0,14,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
 1957,4,essarts,flockhart,1923-06-16,British,brm,11,,Accident,0.0,15,http://en.wikipedia.org/wiki/1957_French_Grand_Prix
-1957,5,aintree,moss,1929-09-17,British,vanwall,3,11197800.0,Finished,5.0,1,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
 1957,5,aintree,brooks,1932-02-25,British,vanwall,3,11197800.0,Finished,4.0,1,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
+1957,5,aintree,moss,1929-09-17,British,vanwall,3,11197800.0,Finished,5.0,1,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
 1957,5,aintree,musso,1924-07-28,Italian,ferrari,10,11223400.0,Finished,6.0,2,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
 1957,5,aintree,hawthorn,1929-04-10,British,ferrari,5,11240600.0,Finished,4.0,3,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
 1957,5,aintree,collins,1931-11-06,British,ferrari,9,,+2 Laps,0.0,4,http://en.wikipedia.org/wiki/1957_British_Grand_Prix
@@ -1601,8 +1601,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1958,6,reims,salvadori,1922-05-12,British,cooper,14,,+13 Laps,0.0,11,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
 1958,6,reims,schell,1921-06-29,American,brm,3,,Overheating,0.0,12,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
 1958,6,reims,behra,1921-02-16,French,brm,9,,Fuel pump,0.0,13,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
-1958,6,reims,brooks,1932-02-25,British,vanwall,10,,Engine,0.0,14,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
 1958,6,reims,lewis-evans,1930-04-20,British,vanwall,10,,Engine,0.0,14,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
+1958,6,reims,brooks,1932-02-25,British,vanwall,10,,Engine,0.0,14,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
 1958,6,reims,hill,1929-02-15,British,team_lotus,19,,Overheating,0.0,15,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
 1958,6,reims,godia,1921-03-21,Spanish,maserati,11,,Accident,0.0,16,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
 1958,6,reims,trintignant,1917-10-30,French,brm,7,,Fuel pump,0.0,17,http://en.wikipedia.org/wiki/1958_French_Grand_Prix
@@ -2242,8 +2242,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1961,5,aintree,beaufort,1934-04-10,Dutch,porsche,18,,+6 Laps,0.0,16,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
 1961,5,aintree,seidel,1926-07-04,German,lotus-climax,22,,+17 Laps,0.0,17,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
 1961,5,aintree,clark,1936-03-04,British,lotus-climax,8,,Oil leak,0.0,18,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
-1961,5,aintree,moss,1929-09-17,British,ferguson,20,,Disqualified,0.0,19,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
 1961,5,aintree,fairman,1913-03-15,British,ferguson,20,,Disqualified,0.0,19,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
+1961,5,aintree,moss,1929-09-17,British,ferguson,20,,Disqualified,0.0,19,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
 1961,5,aintree,bianchi,1934-11-10,Belgian,lotus-climax,30,,Gearbox,0.0,20,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
 1961,5,aintree,moss,1929-09-17,British,lotus-climax,5,,Brakes,0.0,21,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
 1961,5,aintree,hill,1929-02-15,British,brm,11,,Engine,0.0,22,http://en.wikipedia.org/wiki/1961_British_Grand_Prix
@@ -2324,8 +2324,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1961,8,watkins_glen,penske,1937-02-20,American,cooper-climax,16,,+4 Laps,0.0,8,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
 1961,8,watkins_glen,ryan,1940-06-10,Canadian,lotus-climax,13,,+4 Laps,0.0,9,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
 1961,8,watkins_glen,sharp,1928-01-01,American,cooper-climax,17,,+7 Laps,0.0,10,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
-1961,8,watkins_glen,gregory,1932-02-29,American,lotus-climax,15,,+8 Laps,0.0,11,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
 1961,8,watkins_glen,gendebien,1924-01-12,Belgian,lotus-climax,15,,+8 Laps,0.0,11,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
+1961,8,watkins_glen,gregory,1932-02-29,American,lotus-climax,15,,+8 Laps,0.0,11,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
 1961,8,watkins_glen,salvadori,1922-05-12,British,cooper-climax,12,,Engine,0.0,12,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
 1961,8,watkins_glen,hall,1935-07-23,American,lotus-climax,18,,Fuel leak,0.0,13,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
 1961,8,watkins_glen,ruby,1928-01-12,American,lotus-climax,19,,Magneto,0.0,14,http://en.wikipedia.org/wiki/1961_United_States_Grand_Prix
@@ -2986,8 +2986,8 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 1964,9,watkins_glen,gurney,1931-04-13,American,brabham-climax,3,,Oil pressure,0.0,9,http://en.wikipedia.org/wiki/1964_United_States_Grand_Prix
 1964,9,watkins_glen,sharp,1928-01-01,American,brabham-brm,18,,Not classified,0.0,10,http://en.wikipedia.org/wiki/1964_United_States_Grand_Prix
 1964,9,watkins_glen,bandini,1935-12-21,Italian,ferrari,8,,Engine,0.0,11,http://en.wikipedia.org/wiki/1964_United_States_Grand_Prix
-1964,9,watkins_glen,clark,1936-03-04,British,lotus-climax,1,,Injection,0.0,12,http://en.wikipedia.org/wiki/1964_United_States_Grand_Prix
 1964,9,watkins_glen,spence,1936-12-30,British,lotus-climax,1,,Injection,0.0,12,http://en.wikipedia.org/wiki/1964_United_States_Grand_Prix
+1964,9,watkins_glen,clark,1936-03-04,British,lotus-climax,1,,Injection,0.0,12,http://en.wikipedia.org/wiki/1964_United_States_Grand_Prix
 1964,9,watkins_glen,bucknum,1936-04-05,American,honda,14,,Overheating,0.0,13,http://en.wikipedia.org/wiki/1964_United_States_Grand_Prix
 1964,9,watkins_glen,amon,1943-07-20,New Zealander,lotus-brm,11,,Engine,0.0,14,http://en.wikipedia.org/wiki/1964_United_States_Grand_Prix
 1964,9,watkins_glen,bonnier,1930-01-31,Swedish,brabham-climax,9,,Wheel,0.0,15,http://en.wikipedia.org/wiki/1964_United_States_Grand_Prix
@@ -24946,3 +24946,443 @@ season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,s
 2021,22,yas_marina,russell,1998-02-15,British,williams,17,,Gearbox,0.0,18,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix
 2021,22,yas_marina,raikkonen,1979-10-17,Finnish,alfa,18,,Brakes,0.0,19,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix
 2021,22,yas_marina,mazepin,1999-03-02,Russian,haas,20,,Illness,0.0,20,http://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix
+2022,1,bahrain,leclerc,1997-10-16,Monegasque,ferrari,1,5853584.0,Finished,26.0,1,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,sainz,1994-09-01,Spanish,ferrari,3,5859182.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,hamilton,1985-01-07,British,mercedes,5,5863259.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,russell,1998-02-15,British,mercedes,9,5864795.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,kevin_magnussen,1992-10-05,Danish,haas,7,5868338.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,bottas,1989-08-28,Finnish,alfa,6,5869703.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,ocon,1996-09-17,French,alpine,11,5873007.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,tsunoda,2000-05-11,Japanese,alphatauri,16,5873970.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,alonso,1981-07-29,Spanish,alpine,8,5875974.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,zhou,1999-05-30,Chinese,alfa,15,5876648.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,mick_schumacher,1999-03-22,German,haas,12,5886158.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,stroll,1998-10-29,Canadian,aston_martin,19,5899457.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,albon,1996-03-23,Thai,williams,14,5907516.0,Finished,0.0,13,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,ricciardo,1989-07-01,Australian,mclaren,18,5908559.0,Finished,0.0,14,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,norris,1999-11-13,British,mclaren,13,5909919.0,Finished,0.0,15,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,latifi,1995-06-29,Canadian,williams,20,5915379.0,Finished,0.0,16,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,hulkenberg,1987-08-19,German,aston_martin,17,5917413.0,Finished,0.0,17,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,perez,1990-01-26,Mexican,red_bull,4,,Fuel pressure,0.0,18,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,max_verstappen,1997-09-30,Dutch,red_bull,2,,Fuel pressure,0.0,19,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,1,bahrain,gasly,1996-02-07,French,alphatauri,10,,Power Unit,0.0,20,http://en.wikipedia.org/wiki/2022_Bahrain_Grand_Prix
+2022,2,jeddah,max_verstappen,1997-09-30,Dutch,red_bull,4,5059293.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,leclerc,1997-10-16,Monegasque,ferrari,2,5059842.0,Finished,19.0,2,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,sainz,1994-09-01,Spanish,ferrari,3,5067390.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,perez,1990-01-26,Mexican,red_bull,1,5070093.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,russell,1998-02-15,British,mercedes,6,5092025.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,ocon,1996-09-17,French,alpine,5,5115310.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,norris,1999-11-13,British,mclaren,11,5115417.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,gasly,1996-02-07,French,alphatauri,9,5122239.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,kevin_magnussen,1992-10-05,Danish,haas,10,5123601.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,hamilton,1985-01-07,British,mercedes,15,5133241.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,zhou,1999-05-30,Chinese,alfa,12,5141508.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,hulkenberg,1987-08-19,German,aston_martin,17,5151035.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,stroll,1998-10-29,Canadian,aston_martin,13,,+1 Lap,0.0,13,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,albon,1996-03-23,Thai,williams,16,,Collision damage,0.0,14,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,bottas,1989-08-28,Finnish,alfa,8,,Cooling system,0.0,15,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,alonso,1981-07-29,Spanish,alpine,7,,Water pump,0.0,16,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,ricciardo,1989-07-01,Australian,mclaren,14,,Gearbox,0.0,17,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,latifi,1995-06-29,Canadian,williams,18,,Accident,0.0,18,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,tsunoda,2000-05-11,Japanese,alphatauri,19,,Power Unit,0.0,19,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,2,jeddah,mick_schumacher,1999-03-22,German,haas,0,,Withdrew,0.0,20,http://en.wikipedia.org/wiki/2022_Saudi_Arabian_Grand_Prix
+2022,3,albert_park,leclerc,1997-10-16,Monegasque,ferrari,1,5266548.0,Finished,26.0,1,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,perez,1990-01-26,Mexican,red_bull,3,5287072.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,russell,1998-02-15,British,mercedes,6,5292141.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,hamilton,1985-01-07,British,mercedes,5,5295091.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,norris,1999-11-13,British,mclaren,4,5319851.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,ricciardo,1989-07-01,Australian,mclaren,7,5320285.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,ocon,1996-09-17,French,alpine,8,5328231.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,bottas,1989-08-28,Finnish,alfa,12,5334987.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,gasly,1996-02-07,French,alphatauri,11,5342769.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,albon,1996-03-23,Thai,williams,20,5345930.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,zhou,1999-05-30,Chinese,alfa,14,5348243.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,stroll,1998-10-29,Canadian,aston_martin,19,5355146.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,mick_schumacher,1999-03-22,German,haas,15,,+1 Lap,0.0,13,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,kevin_magnussen,1992-10-05,Danish,haas,16,,+1 Lap,0.0,14,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,tsunoda,2000-05-11,Japanese,alphatauri,13,,+1 Lap,0.0,15,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,latifi,1995-06-29,Canadian,williams,18,,+1 Lap,0.0,16,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,alonso,1981-07-29,Spanish,alpine,10,,+1 Lap,0.0,17,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,max_verstappen,1997-09-30,Dutch,red_bull,2,,Fuel leak,0.0,18,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,vettel,1987-07-03,German,aston_martin,17,,Accident,0.0,19,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,3,albert_park,sainz,1994-09-01,Spanish,ferrari,9,,Spun off,0.0,20,http://en.wikipedia.org/wiki/2022_Australian_Grand_Prix
+2022,4,imola,max_verstappen,1997-09-30,Dutch,red_bull,1,5527986.0,Finished,26.0,1,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,perez,1990-01-26,Mexican,red_bull,3,5544513.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,norris,1999-11-13,British,mclaren,5,5562820.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,russell,1998-02-15,British,mercedes,11,5570492.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,bottas,1989-08-28,Finnish,alfa,7,5571167.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,leclerc,1997-10-16,Monegasque,ferrari,2,5584058.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,tsunoda,2000-05-11,Japanese,alphatauri,12,5589096.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,vettel,1987-07-03,German,aston_martin,13,5598878.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,kevin_magnussen,1992-10-05,Danish,haas,8,5603246.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,stroll,1998-10-29,Canadian,aston_martin,15,,+1 Lap,1.0,10,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,albon,1996-03-23,Thai,williams,18,,+1 Lap,0.0,11,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,gasly,1996-02-07,French,alphatauri,17,,+1 Lap,0.0,12,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,hamilton,1985-01-07,British,mercedes,14,,+1 Lap,0.0,13,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,ocon,1996-09-17,French,alpine,16,,+1 Lap,0.0,14,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,zhou,1999-05-30,Chinese,alfa,0,,+1 Lap,0.0,15,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,latifi,1995-06-29,Canadian,williams,19,,+1 Lap,0.0,16,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,mick_schumacher,1999-03-22,German,haas,10,,+1 Lap,0.0,17,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,ricciardo,1989-07-01,Australian,mclaren,6,,+1 Lap,0.0,18,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,alonso,1981-07-29,Spanish,alpine,9,,Collision damage,0.0,19,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,4,imola,sainz,1994-09-01,Spanish,ferrari,4,,Collision,0.0,20,http://en.wikipedia.org/wiki/2022_Emilia_Romagna_Grand_Prix
+2022,5,miami,max_verstappen,1997-09-30,Dutch,red_bull,3,5664258.0,Finished,26.0,1,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,leclerc,1997-10-16,Monegasque,ferrari,1,5668044.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,sainz,1994-09-01,Spanish,ferrari,2,5672487.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,perez,1990-01-26,Mexican,red_bull,4,5674896.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,russell,1998-02-15,British,mercedes,12,5682840.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,hamilton,1985-01-07,British,mercedes,6,5685626.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,bottas,1989-08-28,Finnish,alfa,5,5689331.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,ocon,1996-09-17,French,alpine,20,5692644.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,albon,1996-03-23,Thai,williams,18,5696623.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,stroll,1998-10-29,Canadian,aston_martin,0,5701284.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,alonso,1981-07-29,Spanish,alpine,11,5701386.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,tsunoda,2000-05-11,Japanese,alphatauri,9,5704404.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,ricciardo,1989-07-01,Australian,mclaren,14,5705160.0,Finished,0.0,13,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,latifi,1995-06-29,Canadian,williams,19,5714194.0,Finished,0.0,14,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,mick_schumacher,1999-03-22,German,haas,15,5737563.0,Finished,0.0,15,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,kevin_magnussen,1992-10-05,Danish,haas,16,,Front wing,0.0,16,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,vettel,1987-07-03,German,aston_martin,0,,Collision,0.0,17,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,gasly,1996-02-07,French,alphatauri,7,,Suspension,0.0,18,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,norris,1999-11-13,British,mclaren,8,,Collision,0.0,19,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,5,miami,zhou,1999-05-30,Chinese,alfa,17,,Water leak,0.0,20,http://en.wikipedia.org/wiki/2022_Miami_Grand_Prix
+2022,6,catalunya,max_verstappen,1997-09-30,Dutch,red_bull,2,5840475.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,perez,1990-01-26,Mexican,red_bull,5,5853547.0,Finished,19.0,2,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,russell,1998-02-15,British,mercedes,4,5873402.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,sainz,1994-09-01,Spanish,ferrari,3,5885683.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,hamilton,1985-01-07,British,mercedes,6,5895009.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,bottas,1989-08-28,Finnish,alfa,7,5900451.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,ocon,1996-09-17,French,alpine,12,5915872.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,norris,1999-11-13,British,mclaren,11,5923710.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,alonso,1981-07-29,Spanish,alpine,20,,+1 Lap,2.0,9,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,tsunoda,2000-05-11,Japanese,alphatauri,13,,+1 Lap,1.0,10,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,vettel,1987-07-03,German,aston_martin,16,,+1 Lap,0.0,11,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,ricciardo,1989-07-01,Australian,mclaren,9,,+1 Lap,0.0,12,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,gasly,1996-02-07,French,alphatauri,14,,+1 Lap,0.0,13,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,mick_schumacher,1999-03-22,German,haas,10,,+1 Lap,0.0,14,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,stroll,1998-10-29,Canadian,aston_martin,17,,+1 Lap,0.0,15,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,latifi,1995-06-29,Canadian,williams,19,,+2 Laps,0.0,16,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,kevin_magnussen,1992-10-05,Danish,haas,8,,+2 Laps,0.0,17,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,albon,1996-03-23,Thai,williams,18,,+2 Laps,0.0,18,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,zhou,1999-05-30,Chinese,alfa,15,,Power loss,0.0,19,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,6,catalunya,leclerc,1997-10-16,Monegasque,ferrari,1,,Turbo,0.0,20,http://en.wikipedia.org/wiki/2022_Spanish_Grand_Prix
+2022,7,monaco,perez,1990-01-26,Mexican,red_bull,3,6990265.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,sainz,1994-09-01,Spanish,ferrari,2,6991419.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,max_verstappen,1997-09-30,Dutch,red_bull,4,6991756.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,leclerc,1997-10-16,Monegasque,ferrari,1,6993187.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,russell,1998-02-15,British,mercedes,6,7002233.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,norris,1999-11-13,British,mclaren,5,7002496.0,Finished,9.0,6,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,alonso,1981-07-29,Spanish,alpine,7,7036623.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,hamilton,1985-01-07,British,mercedes,8,7040653.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,bottas,1989-08-28,Finnish,alfa,12,7042790.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,vettel,1987-07-03,German,aston_martin,9,7043801.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,gasly,1996-02-07,French,alphatauri,17,7044554.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,ocon,1996-09-17,French,alpine,10,7045909.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,ricciardo,1989-07-01,Australian,mclaren,14,7047900.0,Finished,0.0,13,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,stroll,1998-10-29,Canadian,aston_martin,18,7051067.0,Finished,0.0,14,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,latifi,1995-06-29,Canadian,williams,19,,+1 Lap,0.0,15,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,zhou,1999-05-30,Chinese,alfa,20,,+1 Lap,0.0,16,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,tsunoda,2000-05-11,Japanese,alphatauri,11,,+1 Lap,0.0,17,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,albon,1996-03-23,Thai,williams,16,,Mechanical,0.0,18,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,mick_schumacher,1999-03-22,German,haas,15,,Accident,0.0,19,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,7,monaco,kevin_magnussen,1992-10-05,Danish,haas,13,,Water pressure,0.0,20,http://en.wikipedia.org/wiki/2022_Monaco_Grand_Prix
+2022,8,baku,max_verstappen,1997-09-30,Dutch,red_bull,3,5645941.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,perez,1990-01-26,Mexican,red_bull,2,5666764.0,Finished,19.0,2,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,russell,1998-02-15,British,mercedes,5,5691936.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,hamilton,1985-01-07,British,mercedes,7,5717620.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,gasly,1996-02-07,French,alphatauri,6,5723240.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,vettel,1987-07-03,German,aston_martin,9,5730040.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,alonso,1981-07-29,Spanish,alpine,10,5734537.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,ricciardo,1989-07-01,Australian,mclaren,12,5738148.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,norris,1999-11-13,British,mclaren,11,5738497.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,ocon,1996-09-17,French,alpine,13,5754125.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,bottas,1989-08-28,Finnish,alfa,15,,+1 Lap,0.0,11,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,albon,1996-03-23,Thai,williams,17,,+1 Lap,0.0,12,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,tsunoda,2000-05-11,Japanese,alphatauri,8,,+1 Lap,0.0,13,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,mick_schumacher,1999-03-22,German,haas,20,,+1 Lap,0.0,14,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,latifi,1995-06-29,Canadian,williams,18,,+1 Lap,0.0,15,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,stroll,1998-10-29,Canadian,aston_martin,19,,Vibrations,0.0,16,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,kevin_magnussen,1992-10-05,Danish,haas,16,,Power Unit,0.0,17,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,zhou,1999-05-30,Chinese,alfa,14,,Hydraulics,0.0,18,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,leclerc,1997-10-16,Monegasque,ferrari,1,,Power Unit,0.0,19,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,8,baku,sainz,1994-09-01,Spanish,ferrari,4,,Hydraulics,0.0,20,http://en.wikipedia.org/wiki/2022_Azerbaijan_Grand_Prix
+2022,9,villeneuve,max_verstappen,1997-09-30,Dutch,red_bull,1,5781757.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,sainz,1994-09-01,Spanish,ferrari,3,5782750.0,Finished,19.0,2,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,hamilton,1985-01-07,British,mercedes,4,5788763.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,russell,1998-02-15,British,mercedes,8,5794070.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,leclerc,1997-10-16,Monegasque,ferrari,19,5796925.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,ocon,1996-09-17,French,alpine,7,5805647.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,bottas,1989-08-28,Finnish,alfa,11,5807004.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,zhou,1999-05-30,Chinese,alfa,10,5808709.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,alonso,1981-07-29,Spanish,alpine,2,5811702.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,stroll,1998-10-29,Canadian,aston_martin,17,5819979.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,ricciardo,1989-07-01,Australian,mclaren,9,5824804.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,vettel,1987-07-03,German,aston_martin,16,5826002.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,albon,1996-03-23,Thai,williams,12,5826650.0,Finished,0.0,13,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,gasly,1996-02-07,French,alphatauri,15,5826940.0,Finished,0.0,14,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,norris,1999-11-13,British,mclaren,14,5833902.0,Finished,0.0,15,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,latifi,1995-06-29,Canadian,williams,18,5841735.0,Finished,0.0,16,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,kevin_magnussen,1992-10-05,Danish,haas,5,5849937.0,Finished,0.0,17,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,tsunoda,2000-05-11,Japanese,alphatauri,20,,Accident,0.0,18,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,mick_schumacher,1999-03-22,German,haas,6,,Engine,0.0,19,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,9,villeneuve,perez,1990-01-26,Mexican,red_bull,13,,Gearbox,0.0,20,http://en.wikipedia.org/wiki/2022_Canadian_Grand_Prix
+2022,10,silverstone,sainz,1994-09-01,Spanish,ferrari,1,8270311.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,perez,1990-01-26,Mexican,red_bull,4,8274090.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,hamilton,1985-01-07,British,mercedes,5,8276536.0,Finished,16.0,3,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,leclerc,1997-10-16,Monegasque,ferrari,3,8278857.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,alonso,1981-07-29,Spanish,alpine,7,8279882.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,norris,1999-11-13,British,mclaren,6,8282254.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,max_verstappen,1997-09-30,Dutch,red_bull,2,8289088.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,mick_schumacher,1999-03-22,German,haas,19,8289306.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,vettel,1987-07-03,German,aston_martin,18,8292667.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,kevin_magnussen,1992-10-05,Danish,haas,17,8294901.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,stroll,1998-10-29,Canadian,aston_martin,20,8296458.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,latifi,1995-06-29,Canadian,williams,10,8302822.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,ricciardo,1989-07-01,Australian,mclaren,14,8303128.0,Finished,0.0,13,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,tsunoda,2000-05-11,Japanese,alphatauri,13,8311221.0,Finished,0.0,14,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,ocon,1996-09-17,French,alpine,15,,Fuel pump,0.0,15,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,gasly,1996-02-07,French,alphatauri,11,,Collision damage,0.0,16,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,bottas,1989-08-28,Finnish,alfa,12,,Gearbox,0.0,17,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,russell,1998-02-15,British,mercedes,8,,Collision,0.0,18,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,zhou,1999-05-30,Chinese,alfa,9,,Collision,0.0,19,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,10,silverstone,albon,1996-03-23,Thai,williams,16,,Collision,0.0,20,http://en.wikipedia.org/wiki/2022_British_Grand_Prix
+2022,11,red_bull_ring,leclerc,1997-10-16,Monegasque,ferrari,2,5064312.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,max_verstappen,1997-09-30,Dutch,red_bull,1,5065844.0,Finished,19.0,2,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,hamilton,1985-01-07,British,mercedes,8,5105529.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,russell,1998-02-15,British,mercedes,4,5123284.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,ocon,1996-09-17,French,alpine,6,5132748.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,mick_schumacher,1999-03-22,German,haas,9,,+1 Lap,8.0,6,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,norris,1999-11-13,British,mclaren,10,,+1 Lap,6.0,7,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,kevin_magnussen,1992-10-05,Danish,haas,7,,+1 Lap,4.0,8,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,ricciardo,1989-07-01,Australian,mclaren,11,,+1 Lap,2.0,9,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,alonso,1981-07-29,Spanish,alpine,19,,+1 Lap,1.0,10,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,bottas,1989-08-28,Finnish,alfa,0,,+1 Lap,0.0,11,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,albon,1996-03-23,Thai,williams,15,,+1 Lap,0.0,12,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,stroll,1998-10-29,Canadian,aston_martin,12,,+1 Lap,0.0,13,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,zhou,1999-05-30,Chinese,alfa,13,,+1 Lap,0.0,14,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,gasly,1996-02-07,French,alphatauri,14,,+1 Lap,0.0,15,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,tsunoda,2000-05-11,Japanese,alphatauri,16,,+1 Lap,0.0,16,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,vettel,1987-07-03,German,aston_martin,18,,+1 Lap,0.0,17,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,sainz,1994-09-01,Spanish,ferrari,3,,Power Unit,0.0,18,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,latifi,1995-06-29,Canadian,williams,17,,Undertray,0.0,19,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,11,red_bull_ring,perez,1990-01-26,Mexican,red_bull,5,,Collision damage,0.0,20,http://en.wikipedia.org/wiki/2022_Austrian_Grand_Prix
+2022,12,ricard,max_verstappen,1997-09-30,Dutch,red_bull,2,5402112.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,hamilton,1985-01-07,British,mercedes,4,5412699.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,russell,1998-02-15,British,mercedes,6,5418607.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,perez,1990-01-26,Mexican,red_bull,3,5419422.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,sainz,1994-09-01,Spanish,ferrari,19,5430984.0,Finished,11.0,5,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,alonso,1981-07-29,Spanish,alpine,7,5444991.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,norris,1999-11-13,British,mclaren,5,5454138.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,ocon,1996-09-17,French,alpine,10,5459071.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,ricciardo,1989-07-01,Australian,mclaren,9,5462484.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,stroll,1998-10-29,Canadian,aston_martin,15,5464661.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,vettel,1987-07-03,German,aston_martin,12,5466606.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,gasly,1996-02-07,French,alphatauri,14,5467560.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,albon,1996-03-23,Thai,williams,13,5470677.0,Finished,0.0,13,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,bottas,1989-08-28,Finnish,alfa,11,5478778.0,Finished,0.0,14,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,mick_schumacher,1999-03-22,German,haas,17,5482506.0,Finished,0.0,15,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,zhou,1999-05-30,Chinese,alfa,16,,+6 Laps,0.0,16,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,latifi,1995-06-29,Canadian,williams,18,,Collision damage,0.0,17,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,kevin_magnussen,1992-10-05,Danish,haas,20,,Collision damage,0.0,18,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,leclerc,1997-10-16,Monegasque,ferrari,1,,Accident,0.0,19,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,12,ricard,tsunoda,2000-05-11,Japanese,alphatauri,8,,Undertray,0.0,20,http://en.wikipedia.org/wiki/2022_French_Grand_Prix
+2022,13,hungaroring,max_verstappen,1997-09-30,Dutch,red_bull,10,5975912.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,hamilton,1985-01-07,British,mercedes,7,5983746.0,Finished,19.0,2,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,russell,1998-02-15,British,mercedes,1,5988249.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,sainz,1994-09-01,Spanish,ferrari,2,5990491.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,perez,1990-01-26,Mexican,red_bull,11,5991600.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,leclerc,1997-10-16,Monegasque,ferrari,3,5991959.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,norris,1999-11-13,British,mclaren,4,6054212.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,alonso,1981-07-29,Spanish,alpine,6,,+1 Lap,4.0,8,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,ocon,1996-09-17,French,alpine,5,,+1 Lap,2.0,9,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,vettel,1987-07-03,German,aston_martin,18,,+1 Lap,1.0,10,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,stroll,1998-10-29,Canadian,aston_martin,14,,+1 Lap,0.0,11,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,gasly,1996-02-07,French,alphatauri,0,,+1 Lap,0.0,12,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,zhou,1999-05-30,Chinese,alfa,12,,+1 Lap,0.0,13,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,mick_schumacher,1999-03-22,German,haas,15,,+1 Lap,0.0,14,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,ricciardo,1989-07-01,Australian,mclaren,9,,+1 Lap,0.0,15,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,kevin_magnussen,1992-10-05,Danish,haas,13,,+1 Lap,0.0,16,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,albon,1996-03-23,Thai,williams,17,,+1 Lap,0.0,17,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,latifi,1995-06-29,Canadian,williams,19,,+1 Lap,0.0,18,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,tsunoda,2000-05-11,Japanese,alphatauri,16,,+2 Laps,0.0,19,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,13,hungaroring,bottas,1989-08-28,Finnish,alfa,8,,Power Unit,0.0,20,http://en.wikipedia.org/wiki/2022_Hungarian_Grand_Prix
+2022,14,spa,max_verstappen,1997-09-30,Dutch,red_bull,14,5152894.0,Finished,26.0,1,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,perez,1990-01-26,Mexican,red_bull,2,5170735.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,sainz,1994-09-01,Spanish,ferrari,1,5179780.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,russell,1998-02-15,British,mercedes,5,5182034.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,alonso,1981-07-29,Spanish,alpine,3,5226150.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,leclerc,1997-10-16,Monegasque,ferrari,15,5227830.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,ocon,1996-09-17,French,alpine,16,5228534.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,vettel,1987-07-03,German,aston_martin,10,5231001.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,gasly,1996-02-07,French,alphatauri,0,5245075.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,albon,1996-03-23,Thai,williams,6,5254794.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,stroll,1998-10-29,Canadian,aston_martin,9,5255972.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,norris,1999-11-13,British,mclaren,17,5257633.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,tsunoda,2000-05-11,Japanese,alphatauri,0,5258111.0,Finished,0.0,13,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,zhou,1999-05-30,Chinese,alfa,18,5259146.0,Finished,0.0,14,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,ricciardo,1989-07-01,Australian,mclaren,7,5260057.0,Finished,0.0,15,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,kevin_magnussen,1992-10-05,Danish,haas,12,,+1 Lap,0.0,16,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,mick_schumacher,1999-03-22,German,haas,19,,+1 Lap,0.0,17,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,latifi,1995-06-29,Canadian,williams,11,,+1 Lap,0.0,18,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,bottas,1989-08-28,Finnish,alfa,13,,Accident,0.0,19,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,14,spa,hamilton,1985-01-07,British,mercedes,4,,Collision damage,0.0,20,http://en.wikipedia.org/wiki/2022_Belgian_Grand_Prix
+2022,15,zandvoort,max_verstappen,1997-09-30,Dutch,red_bull,1,5802773.0,Finished,26.0,1,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,russell,1998-02-15,British,mercedes,6,5806844.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,leclerc,1997-10-16,Monegasque,ferrari,2,5813702.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,hamilton,1985-01-07,British,mercedes,4,5815789.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,perez,1990-01-26,Mexican,red_bull,5,5820941.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,alonso,1981-07-29,Spanish,alpine,13,5821527.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,norris,1999-11-13,British,mclaren,7,5822079.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,sainz,1994-09-01,Spanish,ferrari,3,5823689.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,ocon,1996-09-17,French,alpine,12,5823890.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,stroll,1998-10-29,Canadian,aston_martin,10,5825232.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,gasly,1996-02-07,French,alphatauri,11,5829782.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,albon,1996-03-23,Thai,williams,15,5833163.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,mick_schumacher,1999-03-22,German,haas,8,5835768.0,Finished,0.0,13,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,vettel,1987-07-03,German,aston_martin,19,5838780.0,Finished,0.0,14,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,kevin_magnussen,1992-10-05,Danish,haas,18,5839642.0,Finished,0.0,15,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,zhou,1999-05-30,Chinese,alfa,14,5840093.0,Finished,0.0,16,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,ricciardo,1989-07-01,Australian,mclaren,17,5840537.0,Finished,0.0,17,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,latifi,1995-06-29,Canadian,williams,20,,+1 Lap,0.0,18,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,bottas,1989-08-28,Finnish,alfa,16,,Engine,0.0,19,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,15,zandvoort,tsunoda,2000-05-11,Japanese,alphatauri,9,,Differential,0.0,20,http://en.wikipedia.org/wiki/2022_Dutch_Grand_Prix
+2022,16,monza,max_verstappen,1997-09-30,Dutch,red_bull,7,4827511.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,leclerc,1997-10-16,Monegasque,ferrari,1,4829957.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,russell,1998-02-15,British,mercedes,2,4830916.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,sainz,1994-09-01,Spanish,ferrari,18,4832572.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,hamilton,1985-01-07,British,mercedes,19,4832891.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,perez,1990-01-26,Mexican,red_bull,13,4833602.0,Finished,9.0,6,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,norris,1999-11-13,British,mclaren,3,4833718.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,gasly,1996-02-07,French,alphatauri,5,4833907.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,de_vries,1995-02-06,Dutch,williams,8,4834633.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,zhou,1999-05-30,Chinese,alfa,9,4835421.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,ocon,1996-09-17,French,alpine,14,4835834.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,mick_schumacher,1999-03-22,German,haas,17,4836060.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,bottas,1989-08-28,Finnish,alfa,15,,+1 Lap,0.0,13,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,tsunoda,2000-05-11,Japanese,alphatauri,20,,+1 Lap,0.0,14,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,latifi,1995-06-29,Canadian,williams,10,,+1 Lap,0.0,15,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,kevin_magnussen,1992-10-05,Danish,haas,16,,+1 Lap,0.0,16,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,ricciardo,1989-07-01,Australian,mclaren,4,,Oil leak,0.0,17,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,stroll,1998-10-29,Canadian,aston_martin,12,,Engine,0.0,18,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,alonso,1981-07-29,Spanish,alpine,6,,Water pressure,0.0,19,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,16,monza,vettel,1987-07-03,German,aston_martin,11,,Engine,0.0,20,http://en.wikipedia.org/wiki/2022_Italian_Grand_Prix
+2022,17,marina_bay,perez,1990-01-26,Mexican,red_bull,2,7340238.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,leclerc,1997-10-16,Monegasque,ferrari,1,7342833.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,sainz,1994-09-01,Spanish,ferrari,4,7350543.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,norris,1999-11-13,British,mclaren,6,7361371.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,ricciardo,1989-07-01,Australian,mclaren,16,7393520.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,stroll,1998-10-29,Canadian,aston_martin,11,7396568.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,max_verstappen,1997-09-30,Dutch,red_bull,8,7399063.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,vettel,1987-07-03,German,aston_martin,13,7400270.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,hamilton,1985-01-07,British,mercedes,3,7401753.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,gasly,1996-02-07,French,alphatauri,7,7409814.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,bottas,1989-08-28,Finnish,alfa,15,7429082.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,kevin_magnussen,1992-10-05,Danish,haas,9,7432848.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,mick_schumacher,1999-03-22,German,haas,12,,+1 Lap,0.0,13,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,russell,1998-02-15,British,mercedes,0,,+2 Laps,0.0,14,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,tsunoda,2000-05-11,Japanese,alphatauri,10,,Accident,0.0,15,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,ocon,1996-09-17,French,alpine,17,,Engine,0.0,16,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,albon,1996-03-23,Thai,williams,18,,Collision damage,0.0,17,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,alonso,1981-07-29,Spanish,alpine,5,,Engine,0.0,18,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,latifi,1995-06-29,Canadian,williams,19,,Collision damage,0.0,19,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,17,marina_bay,zhou,1999-05-30,Chinese,alfa,14,,Collision,0.0,20,http://en.wikipedia.org/wiki/2022_Singapore_Grand_Prix
+2022,18,suzuka,max_verstappen,1997-09-30,Dutch,red_bull,1,10904004.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,perez,1990-01-26,Mexican,red_bull,4,10931070.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,leclerc,1997-10-16,Monegasque,ferrari,2,10935767.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,ocon,1996-09-17,French,alpine,5,10943689.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,hamilton,1985-01-07,British,mercedes,6,10944330.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,vettel,1987-07-03,German,aston_martin,9,10950362.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,alonso,1981-07-29,Spanish,alpine,7,10950373.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,russell,1998-02-15,British,mercedes,8,10951665.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,latifi,1995-06-29,Canadian,williams,20,10974147.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,norris,1999-11-13,British,mclaren,10,10974786.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,ricciardo,1989-07-01,Australian,mclaren,11,10976881.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,stroll,1998-10-29,Canadian,aston_martin,19,10977908.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,tsunoda,2000-05-11,Japanese,alphatauri,13,10979603.0,Finished,0.0,13,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,kevin_magnussen,1992-10-05,Danish,haas,18,10990020.0,Finished,0.0,14,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,bottas,1989-08-28,Finnish,alfa,12,10990500.0,Finished,0.0,15,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,zhou,1999-05-30,Chinese,alfa,14,10991047.0,Finished,0.0,16,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,mick_schumacher,1999-03-22,German,haas,15,10996527.0,Finished,0.0,17,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,gasly,1996-02-07,French,alphatauri,17,11012095.0,Finished,0.0,18,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,sainz,1994-09-01,Spanish,ferrari,3,,Accident,0.0,19,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,18,suzuka,albon,1996-03-23,Thai,williams,16,,Hydraulics,0.0,20,http://en.wikipedia.org/wiki/2022_Japanese_Grand_Prix
+2022,19,americas,max_verstappen,1997-09-30,Dutch,red_bull,2,6131687.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,hamilton,1985-01-07,British,mercedes,3,6136710.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,leclerc,1997-10-16,Monegasque,ferrari,12,6139188.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,perez,1990-01-26,Mexican,red_bull,9,6139980.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,russell,1998-02-15,British,mercedes,4,6176502.0,Finished,11.0,5,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,norris,1999-11-13,British,mclaren,6,6185472.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,alonso,1981-07-29,Spanish,alpine,14,6186765.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,vettel,1987-07-03,German,aston_martin,10,6197041.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,kevin_magnussen,1992-10-05,Danish,haas,13,6197521.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,tsunoda,2000-05-11,Japanese,alphatauri,19,6202606.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,ocon,1996-09-17,French,alpine,0,6204562.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,zhou,1999-05-30,Chinese,alfa,18,6207851.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,albon,1996-03-23,Thai,williams,8,6211744.0,Finished,0.0,13,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,gasly,1996-02-07,French,alphatauri,11,6213450.0,Finished,0.0,14,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,mick_schumacher,1999-03-22,German,haas,16,6216177.0,Finished,0.0,15,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,ricciardo,1989-07-01,Australian,mclaren,15,6222174.0,Finished,0.0,16,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,latifi,1995-06-29,Canadian,williams,17,6235275.0,Finished,0.0,17,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,stroll,1998-10-29,Canadian,aston_martin,5,,Collision,0.0,18,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,bottas,1989-08-28,Finnish,alfa,7,,Spun off,0.0,19,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,19,americas,sainz,1994-09-01,Spanish,ferrari,1,,Collision damage,0.0,20,http://en.wikipedia.org/wiki/2022_United_States_Grand_Prix
+2022,20,rodriguez,max_verstappen,1997-09-30,Dutch,red_bull,1,5916729.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,hamilton,1985-01-07,British,mercedes,3,5931915.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,perez,1990-01-26,Mexican,red_bull,4,5934826.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,russell,1998-02-15,British,mercedes,2,5966160.0,Finished,13.0,4,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,sainz,1994-09-01,Spanish,ferrari,5,5974852.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,leclerc,1997-10-16,Monegasque,ferrari,7,5985503.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,ricciardo,1989-07-01,Australian,mclaren,11,,+1 Lap,6.0,7,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,ocon,1996-09-17,French,alpine,10,,+1 Lap,4.0,8,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,norris,1999-11-13,British,mclaren,8,,+1 Lap,2.0,9,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,bottas,1989-08-28,Finnish,alfa,6,,+1 Lap,1.0,10,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,gasly,1996-02-07,French,alphatauri,14,,+1 Lap,0.0,11,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,albon,1996-03-23,Thai,williams,17,,+1 Lap,0.0,12,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,zhou,1999-05-30,Chinese,alfa,12,,+1 Lap,0.0,13,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,vettel,1987-07-03,German,aston_martin,16,,+1 Lap,0.0,14,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,stroll,1998-10-29,Canadian,aston_martin,20,,+1 Lap,0.0,15,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,mick_schumacher,1999-03-22,German,haas,15,,+1 Lap,0.0,16,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,kevin_magnussen,1992-10-05,Danish,haas,19,,+1 Lap,0.0,17,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,latifi,1995-06-29,Canadian,williams,18,,+2 Laps,0.0,18,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,alonso,1981-07-29,Spanish,alpine,9,,Engine,0.0,19,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,20,rodriguez,tsunoda,2000-05-11,Japanese,alphatauri,13,,Collision damage,0.0,20,http://en.wikipedia.org/wiki/2022_Mexican_Grand_Prix
+2022,21,interlagos,russell,1998-02-15,British,mercedes,1,5914044.0,Finished,26.0,1,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,hamilton,1985-01-07,British,mercedes,2,5915573.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,sainz,1994-09-01,Spanish,ferrari,7,5918095.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,leclerc,1997-10-16,Monegasque,ferrari,5,5922485.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,alonso,1981-07-29,Spanish,alpine,17,5923605.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,max_verstappen,1997-09-30,Dutch,red_bull,3,5924100.0,Finished,8.0,6,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,perez,1990-01-26,Mexican,red_bull,4,5928124.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,ocon,1996-09-17,French,alpine,16,5932734.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,bottas,1989-08-28,Finnish,alfa,14,5936596.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,stroll,1998-10-29,Canadian,aston_martin,15,5937596.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,vettel,1987-07-03,German,aston_martin,9,5940227.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,zhou,1999-05-30,Chinese,alfa,13,5943369.0,Finished,0.0,12,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,mick_schumacher,1999-03-22,German,haas,12,5943943.0,Finished,0.0,13,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,gasly,1996-02-07,French,alphatauri,10,5945911.0,Finished,0.0,14,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,albon,1996-03-23,Thai,williams,19,5950060.0,Finished,0.0,15,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,latifi,1995-06-29,Canadian,williams,18,5951082.0,Finished,0.0,16,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,tsunoda,2000-05-11,Japanese,alphatauri,0,,+1 Lap,0.0,17,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,norris,1999-11-13,British,mclaren,6,,Gearbox,0.0,18,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,kevin_magnussen,1992-10-05,Danish,haas,8,,Collision,0.0,19,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,21,interlagos,ricciardo,1989-07-01,Australian,mclaren,11,,Collision,0.0,20,http://en.wikipedia.org/wiki/2022_Brazilian_Grand_Prix
+2022,22,yas_marina,max_verstappen,1997-09-30,Dutch,red_bull,1,5265914.0,Finished,25.0,1,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,leclerc,1997-10-16,Monegasque,ferrari,3,5274685.0,Finished,18.0,2,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,perez,1990-01-26,Mexican,red_bull,2,5276007.0,Finished,15.0,3,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,sainz,1994-09-01,Spanish,ferrari,4,5290806.0,Finished,12.0,4,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,russell,1998-02-15,British,mercedes,6,5301802.0,Finished,10.0,5,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,norris,1999-11-13,British,mclaren,7,5322148.0,Finished,9.0,6,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,ocon,1996-09-17,French,alpine,8,5323154.0,Finished,6.0,7,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,stroll,1998-10-29,Canadian,aston_martin,14,5342845.0,Finished,4.0,8,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,ricciardo,1989-07-01,Australian,mclaren,13,5349182.0,Finished,2.0,9,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,vettel,1987-07-03,German,aston_martin,9,5349812.0,Finished,1.0,10,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,tsunoda,2000-05-11,Japanese,alphatauri,11,5355285.0,Finished,0.0,11,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,zhou,1999-05-30,Chinese,alfa,15,,+1 Lap,0.0,12,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,albon,1996-03-23,Thai,williams,19,,+1 Lap,0.0,13,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,gasly,1996-02-07,French,alphatauri,17,,+1 Lap,0.0,14,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,bottas,1989-08-28,Finnish,alfa,18,,+1 Lap,0.0,15,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,mick_schumacher,1999-03-22,German,haas,12,,+1 Lap,0.0,16,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,kevin_magnussen,1992-10-05,Danish,haas,16,,+1 Lap,0.0,17,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,hamilton,1985-01-07,British,mercedes,5,,Hydraulics,0.0,18,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,latifi,1995-06-29,Canadian,williams,20,,Collision damage,0.0,19,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix
+2022,22,yas_marina,alonso,1981-07-29,Spanish,alpine,10,,Water leak,0.0,20,http://en.wikipedia.org/wiki/2022_Abu_Dhabi_Grand_Prix

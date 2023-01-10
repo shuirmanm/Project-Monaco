@@ -1056,3 +1056,25 @@ season,round,circuit_id,weather,weather_warm,weather_cold,weather_dry,weather_we
 2021,20,losail,Clear,1,0,0,0,0
 2021,21,jeddah,Clear,1,0,0,0,0
 2021,22,yas_marina,Clear,1,0,0,0,0
+2022,1,bahrain,Clear,1,0,0,0,0
+2022,2,jeddah,Clear,1,0,0,0,0
+2022,3,albert_park,Partly cloudy,0,0,0,0,1
+2022,4,imola,Cloudy in a wet and drying track[2],0,0,0,1,1
+2022,5,miami,"Warm, partly cloudy",0,0,0,0,1
+2022,6,catalunya,Sunny,1,0,0,0,0
+2022,7,monaco,Rain and partly cloudy in wet-and-drying track conditions,0,0,0,1,1
+2022,8,baku,Sunny,1,0,0,0,0
+2022,9,villeneuve,Sunny,1,0,0,0,0
+2022,10,silverstone,Partly cloudy,0,0,0,0,1
+2022,11,red_bull_ring,Partly cloudy,0,0,0,0,1
+2022,12,ricard,Sunny,1,0,0,0,0
+2022,13,hungaroring,"Overcast with drizzle throughout, light rain at the end",0,0,0,1,1
+2022,14,spa,Sunny,1,0,0,0,0
+2022,15,zandvoort,Partly cloudy,0,0,0,0,1
+2022,16,monza,Sunny,1,0,0,0,0
+2022,17,marina_bay,Partly cloudy in a wet and drying track,0,0,0,1,1
+2022,18,suzuka,Rain,0,0,0,1,0
+2022,19,americas,Partly cloudy,0,0,0,0,1
+2022,20,rodriguez,Partly cloudy,0,0,0,0,1
+2022,21,interlagos,Cloudy,0,0,0,0,1
+2022,22,yas_marina,Clear,1,0,0,0,0
