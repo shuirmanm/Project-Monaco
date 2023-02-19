@@ -9,14 +9,20 @@ def get_all_data(file_or_online):
     pass
 
 # Gets data from a certain year and race index
-def get_data_from_idx(races, year, idx):
+def get_data_from_idx(races, year, idx, drop_quals=True):
     races = races[races['season'] == year]
     races = races[races['round'] == idx]
+
+    if drop_quals and 'qualifying_time' in races.columns:
+        races.drop(labels='qualifying_time', axis=1, inplace=True)
 
     return races
 
 # Gets data from before a certain year and race index
-def get_data_before_idx(races, year, idx):
+def get_data_before_idx(races, year, idx, drop_quals=True):
+    if drop_quals and 'qualifying_time' in races.columns:
+        races.drop(labels='qualifying_time', axis=1, inplace=True)
+
     races_prior_years = races[races['season'] < year]
     races_this_year = races[races['season'] == year]
     races_this_year = races_this_year[races_this_year['round'] < idx]
@@ -486,7 +492,8 @@ def get_weather(scrape_or_file, races):
 def get_merged_data(scrape_or_file, races=None, results=None, qualifying=None, driver_standings=None, constructor_standings=None, weather=None):
 
     if scrape_or_file == "file":
-        return pd.read_csv('final_df.csv')
+        df = pd.read_csv('final_df.csv')
+        return df.drop(labels='Unnamed: 0', axis=1)
 
     elif scrape_or_file == "scrape":
         qualifying.rename(columns = {'grid_position': 'grid'}, inplace = True)
@@ -524,8 +531,10 @@ def get_merged_data(scrape_or_file, races=None, results=None, qualifying=None, d
         final_df['qualifying_time'] = final_df.groupby(['season', 'round']).qualifying_time_diff.cumsum().fillna(0)
         final_df.drop('qualifying_time_diff', axis = 1, inplace = True)
 
-        df_dum = pd.get_dummies(final_df, columns = ['circuit_id', 'nationality', 'constructor'] )
+        to_onehot = ['circuit_id', 'nationality', 'constructor', 'driver']
+        df_dum = pd.get_dummies(final_df, columns=to_onehot)
 
+        '''
         for col in df_dum.columns:
             if 'nationality' in col and df_dum[col].sum() < 140:
                 df_dum.drop(col, axis = 1, inplace = True)
@@ -535,9 +544,13 @@ def get_merged_data(scrape_or_file, races=None, results=None, qualifying=None, d
                 
             elif 'circuit_id' in col and df_dum[col].sum() < 70:
                 df_dum.drop(col, axis = 1, inplace = True)
-            
             else:
                 pass
+        '''
+                
+        final_df = pd.merge(final_df, df_dum)
+
+        final_df.drop(labels=to_onehot, inplace=True, axis=1)
 
         return final_df
 
