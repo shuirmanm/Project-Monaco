@@ -34,7 +34,9 @@ def test_year_range(model, start_year, end_year):
             model.train(train_data, num_epochs=num_epochs)
 
             (accuracy, preds) = model.test(test_data)
-            filename = 'preds/year_' + str(i) + str(j) + '.csv'
+
+            filename = 'preds2/year_' + str(i) + '_race_' + str(j) + '.csv'
+
             save_420_pred(drivers_ordered, preds, filename)
 
             print("Year = %d | Race Idx = %d | Accuracy = %.2f"%(i, j, accuracy))
@@ -54,7 +56,8 @@ def save_420_pred(drivers, preds, filename):
             ans = key
         drivernames.append(ans)
     data['Driver'] = drivernames
-    preds = preds / np.sum(preds, axis=0)
+    normalizing_values = np.sum(preds, axis=1)
+    preds = preds / normalizing_values[:,None]
     for i in range(20):
         data[i+1] = preds[:,i]
 
