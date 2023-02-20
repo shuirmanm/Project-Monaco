@@ -34,7 +34,7 @@ def test_year_range(model, start_year, end_year):
             model.train(train_data, num_epochs=num_epochs)
 
             (accuracy, preds) = model.test(test_data)
-            filename = 'preds/year_' + str(i) + '_race_' + str(j) + '.csv'
+            filename = 'preds/year_' + str(i) + str(j) + '.csv'
             save_420_pred(drivers_ordered, preds, filename)
 
             print("Year = %d | Race Idx = %d | Accuracy = %.2f"%(i, j, accuracy))
@@ -57,7 +57,7 @@ def save_420_pred(drivers, preds, filename):
     preds = preds / np.sum(preds, axis=0)
     for i in range(20):
         data[i+1] = preds[:,i]
-    
+
     data.to_csv(filename)
 
 def prob_within_one(actual, pred):
@@ -100,7 +100,7 @@ def split_df_into_minibatches(df, batch_size):
         minibatches.append([x_tensor, y_tensor])
 
     return minibatches
-    
+
 
 driverKeys = {
     'driver_hamilton' : 'Lewis Hamilton',
