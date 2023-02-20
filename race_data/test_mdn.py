@@ -211,7 +211,7 @@ races.to_csv('final_df.csv')
 #train_test.split_df_into_minibatches(races, 10)
 
 
-dim_in = len(races.columns) - 2
+dim_in = len(races.columns) - 3
 dim_out = 1
 n_components = 8
 hidden_dim = [100, 50]
