@@ -14,14 +14,14 @@ def get_data_from_idx(races, year, idx, drop_quals=True):
     races = races[races['round'] == idx]
 
     if drop_quals and 'qualifying_time' in races.columns:
-        races.drop(labels='qualifying_time', axis=1, inplace=True)
+        races.drop(labels=['qualifying_time', 'grid'], axis=1, inplace=True)
 
     return races
 
 # Gets data from before a certain year and race index
 def get_data_before_idx(races, year, idx, drop_quals=True):
     if drop_quals and 'qualifying_time' in races.columns:
-        races.drop(labels='qualifying_time', axis=1, inplace=True)
+        races.drop(labels=['qualifying_time', 'grid'], axis=1, inplace=True)
 
     races_prior_years = races[races['season'] < year]
     races_this_year = races[races['season'] == year]
