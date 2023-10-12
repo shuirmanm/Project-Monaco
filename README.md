@@ -5,7 +5,7 @@ Details:
 
 Jupyter Notebooks: Contains all Jupyter notebooks, including the backtesting functions, data exploration, and data cleaning
 
-race_data: Contains a mix of code nad data, including:
+race_data: Contains a mix of code and data, including:
 - prediction outputs
 - An API pull Jupyter Notebook
 - Relevant input CSVs
