@@ -16,6 +16,7 @@ def get_data_from_idx(races, year, idx, drop_quals=True):
     if drop_quals and 'qualifying_time' in races.columns:
         races.drop(labels=['qualifying_time', 'grid'], axis=1, inplace=True)
 
+
     return races
 
 # Gets data from before a certain year and race index
@@ -494,6 +495,7 @@ def get_merged_data(scrape_or_file, races=None, results=None, qualifying=None, d
 
     if scrape_or_file == "file":
         df = pd.read_csv('../../Processed Data/Race Data/final_df.csv')
+
         return df
 
     elif scrape_or_file == "scrape":

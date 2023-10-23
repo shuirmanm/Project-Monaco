@@ -132,7 +132,7 @@ StrategyDict = {
 }
 
 
-class Backtest(object):
+class backtest(object):
     def __init__(self, RunName, RunFolder, StartingBankroll):
         self.RunName = RunName
         self.RunFolder = RunFolder
@@ -189,10 +189,16 @@ class Backtest(object):
 
         concatenated2.to_csv('../../Processed Data/Backtesting Results/'+self.RunName+'/Summary/'+strategy+'_Summary.csv', index=False)
 
-        pd.set_option('display.expand_frame_repr', False)
-        print(strategy)
-        print(concatenated2.head())
-        print("\n")
+
+        try:
+          print(strategy)
+          display(concatenated2)
+
+        except:
+          pd.set_option('display.expand_frame_repr', False)
+          print(strategy)
+          print(concatenated2.head())
+          print("\n")
 
     #Creates a number of dictionaries needed specifically for the backtesting run
     def DictionaryCreation(self):
