@@ -217,5 +217,5 @@ n_components = 8
 hidden_dim = [100, 50]
 mdn_net = MixtureDensityNetwork(dim_in, dim_out, n_components, hidden_dim)
 
-train_test.test_year_range(mdn_net, 2020, 2022, "Mixture Model")
+train_test.test_year_range(mdn_net, 2020, 2022, "Mixture Model", 150)
 

@@ -5,6 +5,7 @@ import numpy as np
 import math
 import torch
 import pandas as pd
+import os
 
 raceId_dict = {}
 
@@ -78,13 +79,19 @@ raceId_dict['2020'] = {'Portuguese': 1042,
 
 # Steps through each race starting at start_year and ending with
 # end_year, testing on that race and training on all prior races
-def test_year_range(model, start_year, end_year, model_name):
+def test_year_range(model, start_year, end_year, model_name, initial_epochs):
 
     races = data_gather.get_merged_data('file')
-    races.drop(['circuit_id', 'driver', 'nationality', 'constructor'], axis = 1, inplace = True)
+
+    if 'driver' in races.columns:
+      races.drop(['circuit_id', 'driver', 'nationality', 'constructor'], axis = 1, inplace = True)
+
+    if 'Unnamed: 0' in races.columns:
+      races.drop('Unnamed: 0', axis = 1, inplace = True)
+
     rounds = data_gather.compose_race_rounds(races)
 
-    num_epochs = 150
+    num_epochs = initial_epochs
 
     for i in range(start_year, end_year+1):
         for j in rounds[i]:
@@ -119,16 +126,18 @@ def test_year_range(model, start_year, end_year, model_name):
             for key, value in raceId_dict[str(i)].items():
                 if value == ID.iloc[0]:
                     filename = '../../Processed Data/Probability Outputs/' + model_name + '/' + str(i) + '/' +key+ '.csv'
-
+                    #These two lines of code should go in a loop that is just over years
+                    if not os.path.exists('../../Processed Data/Probability Outputs/' + model_name + '/' + str(i)):
+                      os.makedirs('../../Processed Data/Probability Outputs/' + model_name + '/' + str(i))
 
 
             save_420_pred(drivers_ordered, preds, filename)
 
-            print("Year = %d | Race Idx = %d | Accuracy = %.2f"%(i, j, accuracy))
+            print("Year = %d | Race Idx = %d | Loss = %.2f"%(i, j, accuracy))
 
             model.reset()
 
-            num_epochs = 10
+            num_epochs = 5
 
 
 def save_420_pred(drivers, preds, filename):
@@ -141,10 +150,11 @@ def save_420_pred(drivers, preds, filename):
             ans = key
         drivernames.append(ans)
     data['Driver'] = drivernames
-    normalizing_values = np.sum(preds, axis=1)
-    preds = preds / normalizing_values[:,None]
+    # normalizing_values = np.sum(preds, axis=1)
+    # preds = preds / normalizing_values[:,None]
     for i in range(20):
-        data[i+1] = preds[:,i]
+      data[i+1] = preds[:,i]
+
 
     data.to_csv(filename)
 
