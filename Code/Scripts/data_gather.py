@@ -491,14 +491,14 @@ def get_weather(scrape_or_file, races):
     else:
         raise Exception("Input scrape_or_file must be either 'scrape' or 'file'")
 
-def get_merged_data(scrape_or_file, races=None, results=None, qualifying=None, driver_standings=None, constructor_standings=None, weather=None):
+def get_merged_data(merge_or_file, races=None, results=None, qualifying=None, driver_standings=None, constructor_standings=None, weather=None, additional_features=None):
 
-    if scrape_or_file == "file":
+    if merge_or_file == "file":
         df = pd.read_csv('../../Processed Data/Race Data/final_df.csv')
 
         return df
 
-    elif scrape_or_file == "scrape":
+    elif merge_or_file == "merge":
         qualifying.rename(columns = {'grid_position': 'grid'}, inplace = True)
         driver_standings.drop(['driver_points_after_race', 'driver_wins_after_race', 'driver_standings_pos_after_race'] ,axis = 1, inplace = True)
         constructor_standings.drop(['constructor_points_after_race', 'constructor_wins_after_race','constructor_standings_pos_after_race' ],axis = 1, inplace = True)
@@ -508,8 +508,8 @@ def get_merged_data(scrape_or_file, races=None, results=None, qualifying=None, d
 
         df3 = pd.merge(df2, driver_standings, how='left', on=['season', 'round', 'driver'])
         df4 = pd.merge(df3, constructor_standings, how='left', on=['season', 'round', 'constructor']) #from 1958
-
-        final_df = pd.merge(df4, qualifying, how='inner', on=['season', 'round', 'grid']).drop(['driver_name', 'car'], axis = 1) #from 1983
+        df5 = pd.merge(df4, additional_features, how='left', on=['season', 'round', 'driver']).drop(['url', 'status', 'time'], axis = 1)
+        final_df = pd.merge(df5, qualifying, how='inner', on=['season', 'round', 'grid']).drop(['driver_name', 'car'], axis = 1) #from 1983
 
         # Calculate age of drivers
         final_df['date'] = pd.to_datetime(final_df.date)
@@ -553,9 +553,24 @@ def get_merged_data(scrape_or_file, races=None, results=None, qualifying=None, d
 
         final_df = pd.merge(final_df, df_dum)
 
+        final_df["weather_warm"] = final_df["weather_warm"].astype(int)
+        final_df["weather_cold"] = final_df["weather_cold"].astype(int)
+        final_df["weather_dry"] = final_df["weather_dry"].astype(int)
+        final_df["weather_wet"] = final_df["weather_wet"].astype(int)
+        final_df["weather_cloudy"] = final_df["weather_cloudy"].astype(int)
+
+        if 'Unnamed: 0' in final_df.columns:
+            final_df.drop(labels='Unnamed: 0', axis=1, inplace=True)
+
+
         final_df.drop(labels=to_onehot, inplace=True, axis=1)
+
+        final_df.drop(labels=['driver_points_after_race.1','driver_wins_after_race.1','driver_standings_pos_after_race.1'], inplace=True, axis=1)
+
+        final_df.drop(labels=['grid','qualifying_time'], inplace=True, axis=1)
+
 
         return final_df
 
     else:
-        raise Exception("Input scrape_or_file must be either 'scrape' or 'file'")
+        raise Exception("Input merge_or_file must be either 'merge' or 'file'")

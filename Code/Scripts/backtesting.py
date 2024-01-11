@@ -359,6 +359,7 @@ class backtest(object):
 
         for year in self.year_list:
 
+            i = 0
             temp = []
 
             for race in raceId_dict[year]:
@@ -376,6 +377,7 @@ class backtest(object):
 
                     # NOTE: It is likely possible to replace the four 'comparison' sections with a loop but this was not deemed a priority
 
+                    i+=1
                     #First comparison - odds to win
                     ImpliedOdds = self.odds_df_dict[year][race].loc[self.odds_df_dict[year][race]['Driver'] == driver,'Odds to Win']
                     EstimatedOdds = self.converted_predictions_df_dict[year][race].loc[self.converted_predictions_df_dict[year][race]['Driver'] == driver,'Probability of Winning']
@@ -422,6 +424,7 @@ class backtest(object):
                     except:
                         continue
 
+                    i+=1
                     #Second comparison - Odds to Finish Top Three
                     if 'Odds to Finish Top Three' in self.odds_df_dict[year][race].columns:
                         ImpliedOdds = self.odds_df_dict[year][race].loc[self.odds_df_dict[year][race]['Driver'] == driver,'Odds to Finish Top Three']
@@ -463,6 +466,7 @@ class backtest(object):
                                 'Cumulative bankroll': Bankroll
                             }])])
 
+                    i+=1
                     #Third comparison - Odds to Finish Top Six
                     if 'Odds to Finish Top Six' in self.odds_df_dict[year][race].columns:
                         ImpliedOdds = self.odds_df_dict[year][race].loc[self.odds_df_dict[year][race]['Driver'] == driver,'Odds to Finish Top Six']
@@ -504,10 +508,8 @@ class backtest(object):
                                 'Cumulative bankroll': Bankroll
                             }])])
 
-
+                    i+=1
                     #Fourth comparison - Odds to Finish Top Ten
-
-
                     if 'Odds to Finish Top Ten' in self.odds_df_dict[year][race].columns:
                         ImpliedOdds = self.odds_df_dict[year][race].loc[self.odds_df_dict[year][race]['Driver'] == driver,'Odds to Finish Top Ten']
                         EstimatedOdds = self.converted_predictions_df_dict[year][race].loc[self.converted_predictions_df_dict[year][race]['Driver'] == driver,'Probability of Finishing Top Ten']

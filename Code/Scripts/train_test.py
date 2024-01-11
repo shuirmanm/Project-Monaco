@@ -164,8 +164,7 @@ def prob_within_one(actual, pred):
 def prob_within_two(actual, pred):
     return prob_within_range(2, actual, pred)
 
-# Finds probability that the predicted value was within a certain
-# range of the correct value
+# Finds probability that the predicted value was within a certain range of the correct value
 def prob_within_range(val, actual, pred):
     num = len(actual)
     max_val = pred.shape[1]
@@ -199,7 +198,6 @@ def split_df_into_minibatches(df, batch_size):
 
     return minibatches
 
-# We shouldn't have to use this key - there should be a way to make this obsolete
 driverKeys = {
     'driver_hamilton' : 'Lewis Hamilton',
     'driver_alonso' : 'Fernando Alonso',
